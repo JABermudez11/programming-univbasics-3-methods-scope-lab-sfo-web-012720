@@ -10,4 +10,5 @@ end
 
 def link
   careful = "It's Dangerous To Go Alone! Take This."
+  puts careful
 end
